@@ -1,0 +1,17 @@
+*.o
+*.obj
+*.bin
+*.exe
+*.out
+*.lst
+*.map
+*.zip
+*.7z
+*.pdf
+*.png
+*/README.md
+*/.gitignore
+build/
+out/
+.vscode/
+.idea/
